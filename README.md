@@ -1,8 +1,15 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This app has crud functionalities like create, read, edit, update and delete.We can add the cards using the app and later we can update the data aslo.
+If u not added one details in form it will show validitions to enter the appropriate field.
 
-Currently, two official plugins are available:
+## To Run the Apllication
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+In the command prompt or powershell use the coomand
+
+`npm run dev`
+
+To view the live site of the app click the beolw link.
+
+- [@Live-site](https://formik-olive.vercel.app/)
+
