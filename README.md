@@ -16,7 +16,6 @@ The Admin Dashboard offers functionalities to manage books and authors within th
 ## Components
 
 ### BookManagement Component
-
 - **Description:** Handles book-related operations within the system.
 - **Features:** Add, edit, delete, and view book information.
 
